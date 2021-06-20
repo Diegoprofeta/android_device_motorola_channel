@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_channel.mk
+    $(LOCAL_DIR)/dot_channel.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_channel-eng \
-    arrow_channel-user \
-    arrow_channel-userdebug
+    dot_channel-eng \
+    dot_channel-user \
+    dot_channel-userdebug
