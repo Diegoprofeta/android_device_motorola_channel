@@ -34,10 +34,6 @@
         M -188,0 L -188,72 L 188,72 L 188,0 Z
     </string>
 
-    <!-- Height of the status bar -->
-    <dimen name="status_bar_height_portrait">72.0px</dimen>
-    <dimen name="status_bar_height_landscape">24.0dp</dimen>
-
     <!-- Whether the always on display mode is available. -->
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
 
